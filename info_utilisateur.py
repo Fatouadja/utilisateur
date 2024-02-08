@@ -1,3 +1,5 @@
 prenom = input("Entrez votre prénom : ")
 nom = input("Entrez votre nom : ")
+age = input("Entrez votre âge : ")
 print("Bonjour,", prenom, nom)
+print("Vous avez", age, "ans.")
